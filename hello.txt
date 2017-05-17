@@ -1,2 +1,3 @@
 print ("hello")
 print("everybody")
+print("smth")
